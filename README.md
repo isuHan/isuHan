@@ -24,18 +24,13 @@
 
 <br>
 
-<div align="center"><h2>📈 LANGUAGES</h2></div>
+<div align="center"><h2>📊 GITHUB INSIGHTS</h2></div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuHan&layout=compact">
-  </a>
-</p>
-
-<div align="center"><h2>📊 STATS</h2></div>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=isuHan&show_icons=true&theme=radical">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuHan&layout=compact" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=isuHan&show_icons=true&theme=radical" /></td>
+    </tr>
+  </table>
+</div>
