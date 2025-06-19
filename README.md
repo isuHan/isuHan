@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Jisu!🥳&fontSize=50&animation=twinkling)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align="center"><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -22,5 +22,20 @@
   <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isuHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![isuHan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isuHan&theme=monokai)](https://github.com/isuHan)
+<br>
+
+<div align="center"><h2>📈 LANGUAGES</h2></div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuHan&layout=compact">
+  </a>
+</p>
+
+<div align="center"><h2>📊 STATS</h2></div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=isuHan&show_icons=true&theme=radical">
+  </a>
+</p>
